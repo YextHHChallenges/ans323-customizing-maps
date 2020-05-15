@@ -1,0 +1,22 @@
+{
+  "$id": "jobQualifications",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Job Qualifications",
+  "apiName": "c_jobQualifications",
+  "description": "",
+  "typeId": "yext/richText",
+  "type": {
+    "richTextType": {
+      "supportedFormat": [
+        "UNDERLINE",
+        "ITALICS",
+        "BULLETED_LIST",
+        "BOLD",
+        "HYPERLINK",
+        "NUMBERED_LIST"
+      ]
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}
